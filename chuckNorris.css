@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    color: lightskyblue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: whitesmoke;
+}
+
+div {
+    border: 5px;
+    border-style: dashed;
+    padding: 10px;
+}
+img {
+    margin-bottom: 40px;
+}
